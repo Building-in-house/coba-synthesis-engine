@@ -160,9 +160,7 @@ Let's break down each module further:
 * **Build Tool:** `make` or `invoke` (Python-based task runner).
 * **Version Control:** Git.
 
-**3. Development Workflow & Next Steps (Based on your suggestions):**
-
-Considering your "Next Steps," starting with **option :one: A basic prototype that parses a sample C++/Python project and extracts function calls** is a very sensible first step.  Let's refine the development plan:
+**3. Development Workflow:**
 
 **Phase 1: Core Analysis Prototype (Focus: Function Call Extraction)**
 
